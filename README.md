@@ -6,10 +6,8 @@
     </a><br>
 </p>   
 
-## More than that I'm a Husband, Father, Background Teacher and Ambitious Dreamer
-* I'm here
-* I'm there
-* I'm everywhere
+## 🫶 I'm a Husband, Father, Background Teacher and Ambitious Dreamer
+
 
 <details>
     <summary><h3>Daryl's Coding Journey</h3></summary>
