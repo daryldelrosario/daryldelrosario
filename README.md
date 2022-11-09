@@ -10,6 +10,8 @@
 
 Since 1986 I've been learning, living and experiencing this world. From trades to acting, and cooking to teaching. My experience has brought me to this point in time where programming, coding, and problem solving became an addiction and obession that I'd like to pursue a career in. Focused on full stack developing, and open to solving almost anything. I'm tackling the digital world one code at a time.   
 
+### 🛠️ Languages and Tools   
+
 
 
 <details>
