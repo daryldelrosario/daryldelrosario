@@ -1,5 +1,9 @@
 # Hi there 👋
 <p align="center">
+    ![name-banner-tx-removebg-preview](https://user-images.githubusercontent.com/88211866/200942297-13083a9e-7bd0-4b48-b981-9e2be3689c71.png)
+</p>
+
+<p align="center">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4444&pause=111&color=F77102&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Life+Long+Learner;Experienced+Go+Getter" alt="Typing SVG" />
