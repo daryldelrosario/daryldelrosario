@@ -8,6 +8,11 @@
 
 ---   
 
+### Who am I
+* I'm here
+* I'm there
+* I'm everywhere
+
 <details>
     <summary><h3>Daryl's Coding Journey</h3></summary>
     I started here, and now I'm there.
