@@ -1,10 +1,6 @@
 # Hi there 👋
 <p align="center">
-<<<<<<< HEAD
     <img src="https://user-images.githubusercontent.com/88211866/200942297-13083a9e-7bd0-4b48-b981-9e2be3689c71.png">
-=======
-    ![name-banner-tx-removebg-preview](https://user-images.githubusercontent.com/88211866/200942297-13083a9e-7bd0-4b48-b981-9e2be3689c71.png)
->>>>>>> 8319dccbb239c3bee6141ff3315c9291d4270eb9
 </p>
 
 <p align="center">
