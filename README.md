@@ -8,9 +8,9 @@
 
 ## 🫶 I'm a Husband, Father, Background Teacher and Ambitious Dreamer   
 
-Since 1986 I've been learning, living and experiencing this world. From trades to acting, and from cooking to staffing. My experience has brought me to this point in time where programming, coding, and problem solving became an addiction and obession that lead me to a path towards becoming a `Digital Craftsman`.    
+Since 1986 I've been learning, living and experiencing this world. From trades to acting, and from cooking to staffing. My experience has brought me to this point in time where programming, coding, and problem solving became an addiction and obession that lead me to a path towards becoming a `Digital Blacksmith`.    
 
-Focused on full stack developing, and open to solving almost anything. I'm tackling the digital world one code at a time.   
+> "Focused on full stack developing, and open to solving almost anything. I'm tackling the digital world one code at a time. - Daryl del Rosario"   
 
 ### 🛠️ Languages and Tools   
 
