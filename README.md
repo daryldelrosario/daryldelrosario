@@ -8,7 +8,7 @@
 
 ## 🫶 I'm a Husband, Father, Background Teacher and Ambitious Dreamer   
 
-Since 1986 I've been learning, living and experiencing this world. From trades to acting, and from cooking to staffing. My experience has brought me to this point in time where programming, coding, and problem solving became an addiction and obession that lead me to a path towards becoming a `Digital Blacksmith`.    
+I've been learning, living and experiencing this world from breathing to crawling, trades to acting, and from cooking to staffing since 1986. My experience has brought me to this point in time where programming, coding, and problem solving became an addiction and obession that led me to a path towards becoming a `Digital Blacksmith`.    
 
 > "Focused on full stack developing, and open to solving almost anything. I'm tackling the digital world one code at a time."   
 > -Daryl del Rosario"   
@@ -33,6 +33,7 @@ Since 1986 I've been learning, living and experiencing this world. From trades t
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />   
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <details>
     <summary><h3>Daryl's Coding Journey</h3></summary>
