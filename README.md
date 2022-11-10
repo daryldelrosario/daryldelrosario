@@ -6,9 +6,9 @@
     </a><br>
 </p>   
 
-## 🫶 I'm a Husband, Father, Background Teacher and Ambitious Dreamer   
+## 🫶 I'm a Husband, Father, Certified Teacher and Ambitious Dreamer   
 
-I've been living, learning and experiencing this world from breathing to crawling, trades to acting, and from cooking to staffing since 1986. My experience has brought me to this point in time where programming, coding, and problem solving became an addiction and obession that led me to a path towards becoming a `Digital Blacksmith`.    
+I've been living, learning and experiencing this world from breathing to crawling, from trades to acting, and from cooking to staffing since 1986. My decisions and actions have brought me to this point in time where programming, coding, and problem solving have become an addiction and obession of mine. All this had led me to embark on a journey into becoming a `Digital Blacksmith`.    
 
 > "Focused on full stack developing, and open to solving almost anything. I'm tackling this digital world one code at a time."   
 > -Daryl del Rosario"   
