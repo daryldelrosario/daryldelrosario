@@ -7,7 +7,7 @@
 </p>   
 
 <details>
-    <summary><h3>🫶 I'm a Husband, Father, Certified Teacher and Ambitious Dreamer</h3></summary>
+    <summary><h2>🫶 I'm a Husband, Father, Certified Teacher and Ambitious Dreamer</h2></summary>
 I've been living, learning and experiencing this world from breathing to crawling, from trades to acting, and from cooking to staffing since 1986. My decisions and actions have brought me to this point in time where programming, coding, and problem solving have become an addiction and obession of mine. All this had led me to embark on a journey into becoming a `Digital Blacksmith`.
 </details>   
 
