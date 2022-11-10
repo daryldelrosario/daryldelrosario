@@ -42,23 +42,19 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
 </p>   
 
-#   
-
-### 📊 Github stats
-
+## 📊 Github stats
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="192px"/>
-    <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <summary>💻 GitHub Profile Stats</summary>
+    <br/>
+        <img alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" width="50%">
+        <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox" width="50%">
+        <br/>
+        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
     <img alt="Daryl del Rosario's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=daryldelrosario&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </details>
 
