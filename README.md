@@ -22,8 +22,8 @@ I've been living, learning and experiencing this world from breathing to crawlin
 </p>   
 
 <p align="center">
-    <img align="center" alt="Thymeleaf" width="30px" style="padding:16px;" src="https://cdn.simpleicons.org/thymeleaf/hotpink">
-    <img align="center" alt="Postman" width="30px" style="padding:10px;" src="https://cdn.simpleicons.org/postman">
+    <img alt="Thymeleaf" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/thymeleaf/hotpink">
+    <img alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/postman">
     <img alt="Netbeans" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/apachenetbeanside/gray">
     <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
