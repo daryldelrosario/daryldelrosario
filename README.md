@@ -36,15 +36,14 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 #
 
-### 👣 Daryl's Coding Journey
 <details>
-    <summary>✨ How it All Began</summary>
+    <summary><h3>👣 Daryl's Coding Journey</h3></summary>
     <br>
     And so it begins
 Here and there.
 </details>   
 
-## 📊 Github stats
+### 📊 Github stats
 <details>
     <summary>⚡ GitHub Streak Stats</summary>
     <br>
