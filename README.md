@@ -34,27 +34,13 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <img alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> 
 </p>   
 
-# 👣 Daryl's Coding Journey
+#
+
+##
 <details>
-    <summary>✨ Before Coding Began</summary>
+    <summary>👣 Daryl's Coding Journey</summary>
     <br>
 </details>   
-
-<details>
-    <summary>✨ The Coding Begins</summary>
-    <br>
-</details>
-
-<details>
-    <summary>✨ Aftermath Coding</summary>
-    <br>
-</details>
-
-### 🔥 Streak stats   
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
-</p>   
 
 ## 📊 Github stats
 <details>
