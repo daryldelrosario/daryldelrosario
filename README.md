@@ -13,7 +13,9 @@ I've been living, learning and experiencing this world from breathing to crawlin
 > "Focused on full stack developing, and open to solving almost anything. Tackling this digital world one code at a time."   
 > -Daryl del Rosario"   
 
-## 🛠️ Languages and Tools   
+#
+
+### 🛠️ Languages and Tools   
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -32,7 +34,9 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <img alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> 
 </p>   
 
-## 🔥 Streak stats   
+#
+
+### 🔥 Streak stats   
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
