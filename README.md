@@ -44,23 +44,23 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 ## 📊 Github stats
 <details> 
-    <summary>💻 GitHub Profile Stats</summary>
+    <summary>⚡ GitHub Profile Stats</summary>
     <br/>
-        <img alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" width="30%">
-        <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox" width="30%">
+        <img alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" width="44%">
+        <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox" width="44%">
         <br/>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-    <img alt="Daryl del Rosario's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=daryldelrosario&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</details>
+    <summary>⚡ Recent GitHub Activity</summary>
+    <br/>
+        <img alt="Daryl del Rosario's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=daryldelrosario&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</details>   
 
-
+# 👣 Daryl's Coding Journey
 <details>
-    <summary><h3>Daryl's Coding Journey</h3></summary>
+    <summary>⚡ Daryl's Coding Journey</summary>
     I started here, and now I'm there.
 </details>
 
