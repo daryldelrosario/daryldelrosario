@@ -36,8 +36,9 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 #
 
+### 👣 Daryl's Coding Journey
 <details>
-    <summary><h2>👣 Daryl's Coding Journey</h2></summary>
+    <summary>✨ How it All Began</summary>
     <br>
     And so it begins
 Here and there.
