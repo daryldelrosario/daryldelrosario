@@ -13,7 +13,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 > "Focused on full stack developing, and open to solving almost anything. Tackling this digital world one code at a time."   
 > -Daryl del Rosario"   
 
-### 🛠️ Languages and Tools   
+## 🛠️ Languages and Tools   
 
 <p align="center">
     <a href="https://skillicons.dev">
