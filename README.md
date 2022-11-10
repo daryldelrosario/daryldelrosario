@@ -63,5 +63,5 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 <details>
     <summary><h3>👣 Daryl's Coding Journey</h3></summary>
-    Hello World! This is the story of how I started to code.
+Under construction, will complete on a later date. Signed: Wed Nov 9, 2022 @ 1116pm.
 </details> 
