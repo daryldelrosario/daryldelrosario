@@ -41,7 +41,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <summary>⚡ GitHub Streak Stats</summary>
     <br>
     <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak" height="143px">
+        <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
     </p> 
 
 </details>
@@ -59,7 +59,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
         <img alt="Daryl del Rosario's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=daryldelrosario&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </details>   
 
-#   
+#
 
 <details>
     <summary><h3>👣 Daryl's Coding Journey</h3></summary>
