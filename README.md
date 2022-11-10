@@ -10,7 +10,7 @@
 
 I've been living, learning and experiencing this world from breathing to crawling, from trades to acting, and from cooking to staffing since 1986. My decisions and actions have brought me to this point in time where programming, coding, and problem solving have become an addiction and obession of mine. All this had led me to embark on a journey into becoming a `Digital Blacksmith`.    
 
-> "Focused on full stack developing, and open to solving almost anything. I'm tackling this digital world one code at a time."   
+> "Focused on full stack developing, and open to solving almost anything. Tackling this digital world one code at a time."   
 > -Daryl del Rosario"   
 
 ### 🛠️ Languages and Tools   
@@ -22,7 +22,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 </p>   
 
 <p align="center">
-    <img alt="Thymeleaf" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/thymeleaf/hotpink">
+    <img alt="Thymeleaf" width="30px" style="padding:16px;" src="https://cdn.simpleicons.org/thymeleaf/hotpink">
     <img alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/postman">
     <img alt="Netbeans" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/apachenetbeanside/gray">
     <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
