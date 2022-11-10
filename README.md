@@ -57,6 +57,15 @@ I've been living, learning and experiencing this world from breathing to crawlin
 </p>   
 
 ## 📊 Github stats
+<details>
+    <summary>⚡ GitHub Streak Stats</summary>
+    <br>
+    <p align="center">
+        <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
+    </p> 
+
+</details>
+
 <details> 
     <summary>⚡ GitHub Profile Stats</summary>
     <br>
