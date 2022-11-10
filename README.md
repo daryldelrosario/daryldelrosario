@@ -62,10 +62,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <br>
         <img align="left" alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="143px" style="padding-right:10px;">
         <img align="left" alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox"height="143px" style="padding-right:10px;">
-        <br>
-    <p>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </p>
+        
 </details>
 
 <details>
