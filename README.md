@@ -4,7 +4,16 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=2222&pause=222&color=F77102&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Life+Long+Learner;Experienced+Go+Getter" alt="Three Identities" />
     </a><br>
-</p>   
+</p> 
+
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)   
+
+#   
 
 <details>
     <summary><h2>🫶 I'm a Husband, Father, Certified Teacher and Ambitious Dreamer</h2></summary>
