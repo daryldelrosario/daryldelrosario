@@ -79,12 +79,20 @@ Started working 10 - 12hr shifts from 4 - 6 days a week as a warehouse associate
 
 <h3 align="center"><i>"Figured I'd put my teaching skillset to use. But my soul was asking for more."</i></h3>
 
-Fortunately, my employer provided resources that allowed us to explore careers outside the warehouse setting. And with that I was introduced to the <b><i>Java Full Stack Bootcamp</i></b> provided by a company called <b><i>The Software Guild</i></b>.
+Fortunately, my employer provided resources that allowed us to explore careers outside the warehouse setting. And with that I was introduced to the <b><i>Java Full Stack Bootcamp</i></b> provided by a company called <b><i>The Software Guild</i></b> through my employer.
 </p>
 
 <h4>✨ August 2021</h4>
 <p>
-Insert story here
+Still working 10 - 12hr shifts from 4 - 6 days a week. The only difference now is that I'm a heavy lifting warehouse associate <b>AND</b> I've embarked on my journey into becoming a full stack developer. 
+
+<h3 align="center"><i>"This bootcamp was broken down into two (2) semesters with ten (10) milestones and an Intro to Web Development pre-requisite course. It is a one-year intensive bootcamp that covered ... "</i></h3>
+
+<ul>
+    <li>One
+    <li>Two
+    <li>Three
+</ul>
 </p>
 
 </details>   
