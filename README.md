@@ -73,7 +73,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 <details>
     <summary><h3>👣 Daryl's Coding Journey</h3></summary>
-<h4>✨ September 2019</h4>
+<h2>✨ September 2019</h2>
 <p>
 Started working 10 - 12hr shifts from 4 - 6 days a week as a warehouse associate. The duties were physically taxing, the work-days were long, and the work-weeks were never ending. My mind, body and soul were aching for a change. So I opted out to join their learning department and train new associates to do what I did.
 
@@ -82,7 +82,7 @@ Started working 10 - 12hr shifts from 4 - 6 days a week as a warehouse associate
 Fortunately, my employer provided resources that allowed us to explore careers outside the warehouse setting. And with that I was introduced to the <b><i>Java Full Stack Bootcamp</i></b> provided by a company called <b><i>The Software Guild</i></b> through my employer.
 </p>
 
-<h4>✨ August 2021</h4>
+<h2>✨ August 2021</h2>
 <p>
 Still working 10 - 12hr shifts from 4 - 6 days a week. The only difference now is that I'm a heavy lifting warehouse associate <b>AND</b> I've embarked on my journey into becoming a full stack developer. 
 
