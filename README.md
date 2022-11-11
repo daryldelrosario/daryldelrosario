@@ -8,12 +8,11 @@
 
 ---   
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)   
+- 🔭 Creative intuition with an analytical mind
+- 🌱 Currently learning how to break free from the matrix
+- 👯 Looking to collaborate with awesome people
+- 🥅 Refining my coding skills via [TheOdinProject](https://theodinproject.com)
+- ⚡ Fun fact: I am an adrenaline enthusiast and enjoy extreme sports. Skydiving, black water rafting and atv-ing to name a few.
 
 #   
 
