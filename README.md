@@ -77,7 +77,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 <p>
 Started working 10 - 12hr shifts, from 4 - 6 days a week as a warehouse associate. The duties were physically taxing, the work-days were long, and the work-weeks were never ending. My mind, body and soul were aching for a change. So I opted out to join their learning department and train new associates to do what I did.<br>
 
-<h2><b><i>"Figured I'd put my teaching skillset to use. But my soul was asking for me.</i></b></h2>
+<h3 align="center"><i>"Figured I'd put my teaching skillset to use. But my soul was asking for more."</i></h3>
 
 Fortunately, my employer provided resources that allowed us to explore careers outside the warehouse setting. And with that I was introduced to the Java Full Stack Bootcamp provided by a company called The Software Guild.
 </p>
