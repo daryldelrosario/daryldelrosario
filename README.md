@@ -103,8 +103,14 @@ Everything and anything from:
 
 <h2>✨ November 24 2021</h2>
 <p>
-Side note: gave birth to our first born son, <a href="https://www.instagram.com/p/CgHyTFLunYk/?utm_source=ig_web_copy_link">Clark Kent del Rosario.</a>
+Side note - gave birth to our first born son: <a href="https://www.instagram.com/p/CgHyTFLunYk/?utm_source=ig_web_copy_link">Clark Kent del Rosario.</a>
+</p>
 
+<h2>✨ October 2022</h2>
+<p>
+Still working 10 - 12hr shifts from 4 - 6 days a week as a heavy lifting warehouse associate. The difference being that I've now graduated from The Software Guild with the Java Full Stack Bootcamp. Looking now to refine my skills while defining my path and preparing to change careers into a ...
+
+<h3 align="center"><i>"Passionate full stack developer solving real world problems one code at a time."</1></h3>
 
 </details>   
 
