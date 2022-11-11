@@ -20,7 +20,7 @@
 <details>
     <summary><h2>🫶 I'm a Husband, Father, Certified Teacher and Ambitious Dreamer</h2></summary>
 
-I've been living, learning and experiencing this world from breathing to crawling, from trades to acting, and from cooking to staffing since 1986. My decisions and actions have brought me to this point in time where programming, coding, and problem solving have become an addiction and obession of mine. All this had led me to embark on a journey into becoming a `Digital Blacksmith`.
+I've been living, learning and experiencing this world from breathing to crawling, from trades to acting, and from cooking to staffing since 1986. My decisions and actions have brought me to this point in time where programming, coding, and problem solving have become an addiction and obession of mine. All this has led me to embark on a journey into becoming a `Digital Blacksmith`.
 </details>    
 
 > "Focused on full stack developing, and open to solving almost anything. Tackling this digital world one code at a time."   
@@ -51,12 +51,25 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 ### 📊 Github stats
 <details>
+    <summary>📊 Github stats</summary>
+    <br>
+    <p align="center">
+        <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
+    </p>
+
+</details>
+
+<details>
     <summary>⚡ GitHub Streak Stats</summary>
     <br>
     <p align="center">
         <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
     </p> 
-
+    <br>
+        <img align="left" alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="143px" style="padding-right:10px;">
+        <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox"height="143px">
+    <br>
+        <img alt="Daryl del Rosario's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=daryldelrosario&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </details>
 
 <details> 
