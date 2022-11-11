@@ -12,7 +12,8 @@
 - 🌱 Currently learning how to break free from the matrix
 - 👯 Looking to collaborate with awesome people
 - 🥅 Refining my coding skills via [TheOdinProject](https://theodinproject.com)
-- ⚡ Fun fact: I am an adrenaline enthusiast and enjoy extreme sports. Skydiving, black water rafting and atv-ing to name a few.
+- ⚡ Fun fact: I am an adrenaline enthusiast. 
+- 🛩️ I've gone skydiving, black water rafting and atv-ing to name a few.
 
 #   
 
