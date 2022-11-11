@@ -73,7 +73,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 <details>
     <summary><h3>👣 Daryl's Coding Journey</h3></summary>
-<h4>September 2019</h4>
+<h4>✨ September 2019</h4>
 <p>
 Working 10-12hr shifts, from 4-6 days a week as a warehouse associate since September 2019. The duties were physically taxing, the work days were long, and the work week was never ending. My mind, body and soul was aching for a change. So I opted out to join their learning department and train new associates to do what I did.<br>
 
