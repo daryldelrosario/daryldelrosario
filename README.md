@@ -24,7 +24,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 </details>    
 
 > "Focused on full stack developing, and open to solving almost anything. Tackling this digital world one code at a time."   
-> -Daryl del Rosario"   
+> -Daryl del Rosario   
 
 #
 
@@ -73,5 +73,12 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 <details>
     <summary><h3>👣 Daryl's Coding Journey</h3></summary>
-Under construction, will complete on a later date. Signed: Wed Nov 9, 2022 @ 1116pm.
-</details> 
+<br>
+<h4>September 2019</hr>
+<p>
+Working 10-12hr shifts, from 4-6 days a week as a warehouse associate since September 2019. My mind, body and soul was aching for a change. Fortunately, my employer provided resources that allowed us to move outside the warehouse.
+</p>
+
+</details>   
+
+> Completed first bootcamp from August 2021 - October 2022 via The Software Guild, Java Full Stack Bootcamp
