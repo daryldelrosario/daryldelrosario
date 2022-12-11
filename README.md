@@ -11,7 +11,7 @@
 - 🔭 Creative intuition with an analytical mind
 - 🌱 Currently learning how to break free from the matrix
 - 👯 Looking to collaborate with awesome people
-- 🥅 Refining my coding skills via [TheOdinProject](https://theodinproject.com)
+- 🥅 Always refining my coding skills
 - ⚡ Fun fact: I am an adrenaline enthusiast. 
 - 🛩️ I've gone skydiving, black water rafting and atv-ing to name a few.
 
@@ -73,13 +73,16 @@ I've been living, learning and experiencing this world from breathing to crawlin
 
 <details>
     <summary><h3>👣 Daryl's Coding Journey</h3></summary>
-<h2>✨ September 2019</h2>
+<h2>✨ October 2022</h2>
 <p>
-Started working 10 - 12hr shifts from 4 - 6 days a week as a warehouse associate. The duties were physically taxing, the work-days were long, and the work-weeks were never ending. My mind, body and soul were aching for a change. So I opted out to join their learning department and train new associates to do what I did.
+Still working 10 - 12hr shifts from 4 - 6 days a week as a heavy lifting warehouse associate. The difference being that I've now graduated from The Software Guild with the Java Full Stack Bootcamp. Looking now to refine my skills while defining my path and preparing to change careers into a ...
 
-<h3 align="center"><i>"Figured I'd put my teaching skillset to use. But my soul was asking for more."</i></h3>
+<h3 align="center"><i>"Passionate full stack developer solving real world problems one code at a time."</1></h3>
+</p>
 
-Fortunately, my employer provided resources that allowed us to explore careers outside the warehouse setting. And with that I was introduced to the <b><i>Java Full Stack Bootcamp</i></b> provided by a company called <b><i>The Software Guild</i></b> through my employer.
+<h2>✨ November 24 2021</h2>
+<p>
+Side note - gave birth to our first born son: <a href="https://www.instagram.com/p/CgHyTFLunYk/?utm_source=ig_web_copy_link">Clark Kent del Rosario.</a>
 </p>
 
 <h2>✨ August 2021</h2>
@@ -101,16 +104,14 @@ Everything and anything from:
 </ul>
 </p>
 
-<h2>✨ November 24 2021</h2>
+<h2>✨ September 2019</h2>
 <p>
-Side note - gave birth to our first born son: <a href="https://www.instagram.com/p/CgHyTFLunYk/?utm_source=ig_web_copy_link">Clark Kent del Rosario.</a>
+Started working 10 - 12hr shifts from 4 - 6 days a week as a warehouse associate. The duties were physically taxing, the work-days were long, and the work-weeks were never ending. My mind, body and soul were aching for a change. So I opted out to join their learning department and train new associates to do what I did.
+
+<h3 align="center"><i>"Figured I'd put my teaching skillset to use. But my soul was asking for more."</i></h3>
+
+Fortunately, my employer provided resources that allowed us to explore careers outside the warehouse setting. And with that I was introduced to the <b><i>Java Full Stack Bootcamp</i></b> provided by a company called <b><i>The Software Guild</i></b> through my employer.
 </p>
-
-<h2>✨ October 2022</h2>
-<p>
-Still working 10 - 12hr shifts from 4 - 6 days a week as a heavy lifting warehouse associate. The difference being that I've now graduated from The Software Guild with the Java Full Stack Bootcamp. Looking now to refine my skills while defining my path and preparing to change careers into a ...
-
-<h3 align="center"><i>"Passionate full stack developer solving real world problems one code at a time."</1></h3>
 
 </details>   
 
