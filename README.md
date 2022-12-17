@@ -61,8 +61,9 @@ I've been living, learning and experiencing this world from breathing to crawlin
         <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox"height="143px">
     </p>
     <br>
+    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
     <p align="center">
-        <img alt="Daryl del Rosario's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=daryldelrosario&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+        <img alt="Daryl del Rosario's Activity Graph" src="[![Daryl's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daryldelrosario&theme=dracula)](https://github.com/daryldelrosario/github-readme-activity-graph)">
     </p>
 
 </details>   
