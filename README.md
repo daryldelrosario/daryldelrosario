@@ -63,7 +63,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <br>
     <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
     <p align="center">
-        <img alt="Daryl del Rosario's Activity Graph" src="[![Daryl's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daryldelrosario&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)">
+        <img alt="Daryl del Rosario's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=daryldelrosario&theme=github-compact">
     </p>
 
 </details>   
