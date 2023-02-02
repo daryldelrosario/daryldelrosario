@@ -48,7 +48,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
 </p>   
 
 #   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <details>
     <summary><h3>📊 Github stats</h3></summary>
     <br>
@@ -119,3 +119,4 @@ Fortunately, my employer provided resources that allowed us to explore careers o
 </details>   
 
 > Completed first bootcamp from August 2021 - October 2022 via The Software Guild, Java Full Stack Bootcamp
+<img src="https://gpvc.arturio.dev/daryldelrosario">
