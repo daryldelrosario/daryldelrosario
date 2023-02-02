@@ -53,7 +53,7 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <summary><h3>📊 Github stats</h3></summary>
     <br>
     <p align="center">
-        <img src="https://gpvc.arturio.dev/daryldelrosario">
+        <img src="https://gpvc.arturio.dev/daryldelrosario"><br>
         <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
     </p>
     <!-- <br>
