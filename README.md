@@ -54,15 +54,15 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <br>
     <p align="center">
         <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
-        <img src="https://github-readme-stats.vercel.app/api?username=daryldelrosario&show_icons=true&theme=gotham" alt="Daryl del Rosario's stats">
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=daryldelrosario&show_icons=true&theme=gotham" alt="Daryl del Rosario's stats"> -->
     </p>
-    <br> <!-- ERROR ON VERCEL PAGE: WILL UNCOMMENT WHEN FIXED 
+    <br>
     <p align="center">
         <img alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=daryldelrosario&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="143px" style="padding-right:10px;">
         <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox"height="143px">
     </p>
     <br>
-    // https://github.com/ashutosh00710/github-readme-activity-graph -->
+    // https://github.com/ashutosh00710/github-readme-activity-graph
 <br></br>
     <p align="center">
         <img alt="Daryl del Rosario's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=daryldelrosario&theme=github-compact">
