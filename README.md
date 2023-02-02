@@ -53,21 +53,21 @@ I've been living, learning and experiencing this world from breathing to crawlin
     <summary><h3>📊 Github stats</h3></summary>
     <br>
     <p align="center">
+        <img src="https://gpvc.arturio.dev/daryldelrosario">
         <img src="https://streak-stats.demolab.com/?user=daryldelrosario&theme=gruvbox_duo&border_radius=4.44" alt="Daryl del Rosario's streak">
     </p>
-    <br>
-    <!-- Source - Stat Feature: https://github.com/anuraghazra/github-readme-stats -->
+    <!-- <br>
+    Source - Stat Feature: https://github.com/anuraghazra/github-readme-stats
     <p align="center">
         <img alt="Dary del Rosario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daryldelrosario&show_icons=true&theme=gruvbox&count_private=true" height="143px" style="padding-right:10px;">
         <img alt="Daryl del Rosario's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryldelrosario&langs_count=8&layout=compact&theme=gruvbox"height="143px">
     </p>
     <br>
 <br></br>
-    <!-- Source - Graph Activity: https://github.com/ashutosh00710/github-readme-activity-graph -->
+    Source - Graph Activity: https://github.com/ashutosh00710/github-readme-activity-graph
     <p align="center">
         <img alt="Daryl del Rosario's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=daryldelrosario&theme=github-compact">
-    </p>
-
+    </p> -->
 </details>   
 
 > Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -119,4 +119,3 @@ Fortunately, my employer provided resources that allowed us to explore careers o
 </details>   
 
 > Completed first bootcamp from August 2021 - October 2022 via The Software Guild, Java Full Stack Bootcamp
-<img src="https://gpvc.arturio.dev/daryldelrosario">
