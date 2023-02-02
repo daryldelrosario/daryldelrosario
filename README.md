@@ -62,6 +62,8 @@ I've been living, learning and experiencing this world from breathing to crawlin
     </p>
     <br>
     // https://github.com/ashutosh00710/github-readme-activity-graph -->
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daryldelrosario&show_icons=true&theme=gotham)  
+<br></br>
     <p align="center">
         <img alt="Daryl del Rosario's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=daryldelrosario&theme=github-compact">
     </p>
